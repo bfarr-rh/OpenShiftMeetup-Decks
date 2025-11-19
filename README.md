@@ -1,3 +1,3 @@
-# Melbourne OpenShiftMeetup Decks
+# OpenShiftMeetup Decks
 
 
